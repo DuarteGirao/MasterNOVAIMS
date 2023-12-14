@@ -13,25 +13,25 @@ of the twentieth century, the company then decided to expand internationally, al
 transformation of all the business processes, with Canada being the first choice.
 As of the end of 2021, Brikint has become a big-sized company, leading in the market in the retail 
 sector, shaping the current market and among the top preferences of customers. The business 
-summary is the following:
+summary is the following:<br>
 • Sales are made in 5 continents and 7 countries: Australia, Canada, Germany, Japan, 
-Mexico, Nigeria, and USA;
+Mexico, Nigeria, and USA;<br>
 • Sales are made via 30 shops: Australia(6), Canada(4), Germany(3), Japan(2), 
-Mexico(2), Nigeria(2) and USA(10);
+Mexico(2), Nigeria(2) and USA(10);<br>
 • Number of manufacturers on sale: 14, including own brand (Maximus)
-• Total number of shop staff: 90
+• Total number of shop staff: 90<br>
 <br>
 
 ## File BI_Dimensions
 This Excel file has 5 sheets (product, manufacturer, geo, stores, and staff). 
 • “Product” sheet provides us information on the existing products ID and products names, 
-and their respective manufacturer ID, category, and price;
+and their respective manufacturer ID, category, and price;<br>
 • “Manufacturer” sheet provides us with information of the manufacturer ID and their 
-respective name and logo;
+respective name and logo;<br>
 • “Geo” sheet provides us with information of the zip code, the city, the state, the region, the 
-district, and the country;
+district, and the country;<br>
 • “Stores” sheet provides us with information on the store ID and their respective store name 
-and country;
+and country;<br>
 • “Staff” sheet provides us with information of the staff ID and their respective role and 
-country;
+country;<br>
 <br>
