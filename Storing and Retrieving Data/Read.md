@@ -1,4 +1,4 @@
-Final Deliverables: <br>
+## Final Deliverables: <br>
 • A report that contains: <br>
 1) cover page with the names of the team members;<br>
 2) one-page description of the fictitious business process; <br>
@@ -9,7 +9,7 @@ Final Deliverables: <br>
 <br>
 
 
-Description <br>
+## Description <br>
 A. Think about any commercial business process of a product or service that needs a relational database to work (e.g., online shops, booking systems, food delivery apps, restaurant management, etc). 
 Describe it in 1 page.<br>
 <br>
